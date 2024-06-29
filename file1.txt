@@ -1,2 +1,4 @@
 Hi, I am writing text in .txt format file.
 I am updating new lines for testing purpose.
+I am adding this line from Osaka machine.
+Thank you for learning devops.
